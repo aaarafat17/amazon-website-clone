@@ -16,11 +16,9 @@ A clone of the Amazon homepage built using HTML and CSS.
 - Font Awesome for icons
 
 ## How to Use
-- Clone the repository: `git clone https://github.com/yourusername/amazon-website-clone.git`
-- Open the `index.html` file in your browser to view the project.
+- Clone the repository: `https://github.com/HASTAR17/amazon-website-clone.git`
+- Open the `index.html` file in your Visual Studio Code and go live to the browser to view the project.
 
-## Screenshots
-Add a few screenshots of your website.
 
 ## Contributing
 Feel free to fork the repository and make a pull request with your changes or improvements.
