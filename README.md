@@ -2,7 +2,7 @@
 
 A clone of the Amazon homepage built using HTML and CSS.
 
-![Amazon Clone Screenshot](images/screenshot.png)
+![Amazon Clone Screenshot](Amazon_Clone_Page.jpg)
 
 ## Features
 - Responsive layout with a navigation bar, search bar, and footer.
